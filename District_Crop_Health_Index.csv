@@ -1,0 +1,760 @@
+State,District,Rainfall,Temperature,NDVI,Crop_Health_Index,Crop_Health_Class
+ANDAMAN & NICOBAR,North  & Middle Andaman,0,26.86,0.83,0.51,Moderate Condition
+ANDAMAN & NICOBAR,South Andaman,0,26.92,0.85,0.52,Moderate Condition
+ANDHRA PRADESH,Alluri Sitharama Raju,0.31,24.95,0.61,0.44,Moderate Condition
+ANDHRA PRADESH,Anakapalli,0.19,25.5,0.56,0.39,Poor Condition
+ANDHRA PRADESH,Anantpur,0,25.55,0.36,0.25,Poor Condition
+ANDHRA PRADESH,Annamayya,0,24.66,0.5,0.34,Poor Condition
+ANDHRA PRADESH,Bapatla,0,26.23,0.61,0.39,Poor Condition
+ANDHRA PRADESH,Chittoor,0,23.69,0.53,0.37,Poor Condition
+ANDHRA PRADESH,East Godavari,0.24,26.14,0.61,0.42,Moderate Condition
+ANDHRA PRADESH,Eluru,0.2,26.35,0.53,0.37,Poor Condition
+ANDHRA PRADESH,Guntur,0.05,26.28,0.6,0.39,Poor Condition
+ANDHRA PRADESH,Kakinada,0.18,25.96,0.57,0.39,Poor Condition
+ANDHRA PRADESH,Konaseema,0.4,26.15,0.6,0.43,Moderate Condition
+ANDHRA PRADESH,Krishna,0.04,26.5,0.58,0.37,Poor Condition
+ANDHRA PRADESH,Kurnool,0,26.15,0.6,0.38,Poor Condition
+ANDHRA PRADESH,NTR,0.52,26.5,0.47,0.37,Poor Condition
+ANDHRA PRADESH,Nandyal,0,26.26,0.39,0.27,Poor Condition
+ANDHRA PRADESH,Palnadu,0.01,26.16,0.55,0.36,Poor Condition
+ANDHRA PRADESH,Parvathipuram Manyam,0.09,24.81,0.46,0.33,Poor Condition
+ANDHRA PRADESH,Prakasam,0.01,26.34,0.56,0.36,Poor Condition
+ANDHRA PRADESH,Sri Potti Sriramulu Nell*,0,26.29,0.5,0.33,Poor Condition
+ANDHRA PRADESH,Sri Sathya sai,0,24.64,0.53,0.36,Poor Condition
+ANDHRA PRADESH,Srikakulam,0.04,24.39,0.61,0.41,Moderate Condition
+ANDHRA PRADESH,Tirupati,0.04,26,0.38,0.27,Poor Condition
+ANDHRA PRADESH,Visakhapatnam,0,25.47,0.52,0.35,Poor Condition
+ANDHRA PRADESH,Vizianagaram,0.11,25.16,0.62,0.42,Moderate Condition
+ANDHRA PRADESH,West Godavari,0.33,26.13,0.51,0.37,Poor Condition
+ANDHRA PRADESH,Y.S.R.,0,25.71,0.53,0.35,Poor Condition
+ARUNACHAL PRADESH,Anjaw,0,21.03,0.62,0.44,Moderate Condition
+ARUNACHAL PRADESH,Changlang,0.12,21.02,0.74,0.52,Moderate Condition
+ARUNACHAL PRADESH,East Kameng,0.2,19.88,0.62,0.47,Moderate Condition
+ARUNACHAL PRADESH,East Siang,0.11,21.05,0.53,0.4,Moderate Condition
+ARUNACHAL PRADESH,Kamle,0.03,20.96,0.62,0.45,Moderate Condition
+ARUNACHAL PRADESH,Kra Daadi,0.09,20.98,0.55,0.41,Moderate Condition
+ARUNACHAL PRADESH,Kurung Kumey,0.24,20.4,0.71,0.52,Moderate Condition
+ARUNACHAL PRADESH,Lepa Rada,0.13,21,0.45,0.36,Poor Condition
+ARUNACHAL PRADESH,Lohit,0.06,21.04,0.63,0.45,Moderate Condition
+ARUNACHAL PRADESH,Longding,0.07,21.01,0.77,0.53,Moderate Condition
+ARUNACHAL PRADESH,Lower Dibang Valley,0.1,21.05,0.49,0.38,Poor Condition
+ARUNACHAL PRADESH,Lower Siang,0.09,21.02,0.67,0.48,Moderate Condition
+ARUNACHAL PRADESH,Lower Subansiri,0.06,20.96,0.76,0.53,Moderate Condition
+ARUNACHAL PRADESH,Namsai,0.13,21.02,0.66,0.48,Moderate Condition
+ARUNACHAL PRADESH,Pakke Kessang,0.32,20.1,0.74,0.55,Moderate Condition
+ARUNACHAL PRADESH,Papum Pare,0.21,20.62,0.79,0.57,Moderate Condition
+ARUNACHAL PRADESH,Shi Yomi,0.33,21.01,0.76,0.56,Moderate Condition
+ARUNACHAL PRADESH,Siang,0.2,21.03,0.72,0.52,Moderate Condition
+ARUNACHAL PRADESH,Tawang,0.32,20.15,0.7,0.53,Moderate Condition
+ARUNACHAL PRADESH,Tirap,0.09,21.01,0.67,0.48,Moderate Condition
+ARUNACHAL PRADESH,Upper Dibang Valley,0.08,21.05,0.57,0.42,Moderate Condition
+ARUNACHAL PRADESH,Upper Siang,0.27,21.03,0.66,0.49,Moderate Condition
+ARUNACHAL PRADESH,Upper Subansiri,0.12,20.99,0.8,0.56,Moderate Condition
+ARUNACHAL PRADESH,West Kameng,0.08,20.32,0.63,0.46,Moderate Condition
+ARUNACHAL PRADESH,West Siang,0.12,21,0.62,0.46,Moderate Condition
+ASSAM,Bajali,0,19.53,0.62,0.46,Moderate Condition
+ASSAM,Baksa,0,19.53,0.46,0.37,Poor Condition
+ASSAM,Barpeta,0,19.53,0.51,0.39,Poor Condition
+ASSAM,Biswanath,0.27,20.11,0.41,0.36,Poor Condition
+ASSAM,Bongaigaon,0,21.18,0.39,0.31,Poor Condition
+ASSAM,Cachar,0,20.06,0.5,0.38,Poor Condition
+ASSAM,Charaideo,0.07,20.97,0.31,0.28,Poor Condition
+ASSAM,Chirang,0,21.18,0.53,0.39,Poor Condition
+ASSAM,Darrang,0.02,20.16,0.47,0.37,Poor Condition
+ASSAM,Dhemaji,0.08,20.97,0.58,0.43,Moderate Condition
+ASSAM,Dhubri,0,21.44,0.52,0.38,Poor Condition
+ASSAM,Dibrugarh,0.08,20.99,0.46,0.36,Poor Condition
+ASSAM,Dima Hasao,0.01,18.98,0.42,0.35,Poor Condition
+ASSAM,Goalpara,0,19.2,0.45,0.36,Poor Condition
+ASSAM,Golaghat,0.23,20.89,0.48,0.39,Poor Condition
+ASSAM,Hailakandi,0,18.62,0.54,0.42,Moderate Condition
+ASSAM,Hojai,0.03,20.55,0.43,0.34,Poor Condition
+ASSAM,Jorhat,0.08,20.95,0.6,0.44,Moderate Condition
+ASSAM,Kamrup,0.21,17.37,0.4,0.38,Poor Condition
+ASSAM,Kamrup Metropolitan,0.01,18.62,0.39,0.34,Poor Condition
+ASSAM,Karbi Anglong,0.2,20.61,0.43,0.36,Poor Condition
+ASSAM,Karimganj,0,18.62,0.68,0.5,Moderate Condition
+ASSAM,Kokrajhar,0,21.55,0.44,0.34,Poor Condition
+ASSAM,Lakhimpur,0.08,20.66,0.54,0.41,Moderate Condition
+ASSAM,Majuli,0.09,20.95,0.42,0.34,Poor Condition
+ASSAM,Morigaon,0,20.48,0.72,0.5,Moderate Condition
+ASSAM,Nagaon,0.1,20.45,0.49,0.38,Poor Condition
+ASSAM,Nalbari,0,20.2,0.42,0.34,Poor Condition
+ASSAM,Sivasagar,0.07,20.95,0.44,0.35,Poor Condition
+ASSAM,Sonitpur,0.16,20.48,0.43,0.36,Poor Condition
+ASSAM,South Salmara Mancachar,0,21.44,0.44,0.34,Poor Condition
+ASSAM,Tinsukia,0.17,21.01,0.45,0.37,Poor Condition
+ASSAM,Udalguri,0.01,20.16,0.37,0.31,Poor Condition
+ASSAM,West Karbi Anglong,0,18.85,0.29,0.28,Poor Condition
+BIHAR,Araria,0,20.42,0.55,0.41,Moderate Condition
+BIHAR,Arwal,0,20.17,0.59,0.43,Moderate Condition
+BIHAR,Aurangabad,0,20.17,0.57,0.42,Moderate Condition
+BIHAR,Banka,0,20.6,0.5,0.38,Poor Condition
+BIHAR,Begusarai,0,20.24,0.62,0.45,Moderate Condition
+BIHAR,Bhagalpur,0,20.35,0.6,0.44,Moderate Condition
+BIHAR,Bhojpur,0,20.42,0.64,0.46,Moderate Condition
+BIHAR,Buxar,0,20.02,0.59,0.43,Moderate Condition
+BIHAR,Darbhanga,0,20.4,0.57,0.42,Moderate Condition
+BIHAR,Gaya,0.01,20.8,0.55,0.41,Moderate Condition
+BIHAR,Gopalganj,0,20.21,0.47,0.36,Poor Condition
+BIHAR,Jamui,0,20.6,0.59,0.43,Moderate Condition
+BIHAR,Jehanabad,0,20.67,0.59,0.43,Moderate Condition
+BIHAR,Kaimur (bhabua),0,20.39,0.56,0.41,Moderate Condition
+BIHAR,Katihar,0,20.8,0.55,0.4,Moderate Condition
+BIHAR,Khagaria,0,19.96,0.56,0.42,Moderate Condition
+BIHAR,Kishanganj,0,21.46,0.45,0.34,Poor Condition
+BIHAR,Lakhisarai,0,20.11,0.62,0.45,Moderate Condition
+BIHAR,Madhepura,0,20.37,0.61,0.44,Moderate Condition
+BIHAR,Madhubani,0,20.48,0.55,0.41,Moderate Condition
+BIHAR,Munger,0,20.61,0.56,0.41,Moderate Condition
+BIHAR,Muzaffarpur,0,20.43,0.6,0.44,Moderate Condition
+BIHAR,Nalanda,0,20.78,0.67,0.47,Moderate Condition
+BIHAR,Nawada,0,20.78,0.6,0.43,Moderate Condition
+BIHAR,Pashchim Champaran,0,20.42,0.53,0.4,Poor Condition
+BIHAR,Patna,0,20.61,0.57,0.42,Moderate Condition
+BIHAR,Purba Champaran,0,20.68,0.57,0.42,Moderate Condition
+BIHAR,Purnia,0,20.42,0.59,0.43,Moderate Condition
+BIHAR,Rohtas,0,19.83,0.63,0.46,Moderate Condition
+BIHAR,Saharsa,0,20.39,0.53,0.4,Poor Condition
+BIHAR,Samastipur,0,20.4,0.64,0.46,Moderate Condition
+BIHAR,Saran,0,20.77,0.58,0.42,Moderate Condition
+BIHAR,Sheikhpura,0,20.11,0.63,0.46,Moderate Condition
+BIHAR,Sheohar,0,20.73,0.63,0.45,Moderate Condition
+BIHAR,Sitamarhi,0,20.73,0.58,0.42,Moderate Condition
+BIHAR,Siwan,0,20.6,0.57,0.42,Moderate Condition
+BIHAR,Supaul,0,21.26,0.59,0.42,Moderate Condition
+BIHAR,Vaishali,0,20.4,0.6,0.44,Moderate Condition
+CHANDIGARH,Chandigarh,0.08,16.17,0.43,0.39,Poor Condition
+CHHATTISGARH,Balod,0,23.28,0.52,0.37,Poor Condition
+CHHATTISGARH,Baloda Bazar,0,22.91,0.41,0.31,Poor Condition
+CHHATTISGARH,Balrampur,0.25,20.05,0.38,0.34,Poor Condition
+CHHATTISGARH,Bametara,0,21.82,0.58,0.41,Moderate Condition
+CHHATTISGARH,Bastar,0.05,23.43,0.49,0.35,Poor Condition
+CHHATTISGARH,Bijapur,0.1,23.55,0.44,0.33,Poor Condition
+CHHATTISGARH,Bilaspur,0,21.65,0.58,0.41,Moderate Condition
+CHHATTISGARH,Dhamtari,0,23.78,0.38,0.28,Poor Condition
+CHHATTISGARH,Durg,0,21.82,0.48,0.36,Poor Condition
+CHHATTISGARH,Gariaband,0.07,23.24,0.46,0.34,Poor Condition
+CHHATTISGARH,Gaurela-Pendra-Marwahi,0,20.31,0.39,0.32,Poor Condition
+CHHATTISGARH,Janjgir - Champa,0,21.96,0.34,0.28,Poor Condition
+CHHATTISGARH,Jashpur,0,20.32,0.44,0.35,Poor Condition
+CHHATTISGARH,Kabeerdham,0,22.08,0.5,0.36,Poor Condition
+CHHATTISGARH,Kanker,0,23.89,0.49,0.34,Poor Condition
+CHHATTISGARH,Khairagarh,0,22.66,0.35,0.28,Poor Condition
+CHHATTISGARH,Kondagaon,0,22.9,0.55,0.39,Poor Condition
+CHHATTISGARH,Korba,0,21.34,0.45,0.34,Poor Condition
+CHHATTISGARH,Koriya,0.09,20.37,0.48,0.38,Poor Condition
+CHHATTISGARH,Mahasamund,0.03,23.89,0.54,0.37,Poor Condition
+CHHATTISGARH,Mahendragarh,0.09,20.76,0.48,0.38,Poor Condition
+CHHATTISGARH,Mohla_manpur,0.02,23.88,0.55,0.38,Poor Condition
+CHHATTISGARH,Mungeli,0.02,20.98,0.38,0.31,Poor Condition
+CHHATTISGARH,Narayanpur,0.38,23.55,0.53,0.41,Moderate Condition
+CHHATTISGARH,Raigarh,0,22.7,0.47,0.34,Poor Condition
+CHHATTISGARH,Raipur,0,22.72,0.55,0.39,Poor Condition
+CHHATTISGARH,Rajnandgaon,0.02,23.09,0.61,0.42,Moderate Condition
+CHHATTISGARH,Sakti,0,22.93,0.3,0.24,Poor Condition
+CHHATTISGARH,Sarangarh,0.03,23.83,0.44,0.32,Poor Condition
+CHHATTISGARH,Sukma,0.25,23.99,0.43,0.34,Poor Condition
+CHHATTISGARH,Surajpur,0.2,20.1,0.3,0.29,Poor Condition
+CHHATTISGARH,Surguja,0,20.54,0.45,0.35,Poor Condition
+"DADRA,NAGAR HAVELI,DAMAN & DIU",Dadra & Nagar Haveli,0,24.65,0.49,0.34,Poor Condition
+"DADRA,NAGAR HAVELI,DAMAN & DIU",Daman,0,24.71,0.45,0.31,Poor Condition
+"DADRA,NAGAR HAVELI,DAMAN & DIU",Diu,0,24.69,0.36,0.26,Poor Condition
+DELHI,Central,0.01,18.89,0.33,0.3,Poor Condition
+DELHI,East,0.03,18.89,0.18,0.22,Poor Condition
+DELHI,New Delhi,0.03,18.54,0.35,0.32,Poor Condition
+DELHI,North,0.03,18.53,0.47,0.38,Poor Condition
+DELHI,North East,0.01,18.89,0.27,0.27,Poor Condition
+DELHI,North West,0.03,18.54,0.44,0.37,Poor Condition
+DELHI,Shahdara,0.01,18.89,0.2,0.23,Poor Condition
+DELHI,South,0.03,18.54,0.38,0.33,Poor Condition
+DELHI,South East,0.03,18.89,0.28,0.27,Poor Condition
+DELHI,South West,0.05,18.54,0.27,0.27,Poor Condition
+DELHI,West,0.03,18.54,0.53,0.42,Moderate Condition
+GOA,North Goa,0.02,27.02,0.61,0.38,Poor Condition
+GOA,South Goa,0.02,27.64,0.67,0.41,Moderate Condition
+GUJARAT,Ahmadabad,0,25.9,0.52,0.34,Poor Condition
+GUJARAT,Amreli,0,24.83,0.5,0.34,Poor Condition
+GUJARAT,Anand,0,25.69,0.53,0.35,Poor Condition
+GUJARAT,Aravalli,0,25.36,0.55,0.36,Poor Condition
+GUJARAT,Banas Kantha,0,23.01,0.59,0.41,Moderate Condition
+GUJARAT,Bharuch,0.01,25.69,0.55,0.36,Poor Condition
+GUJARAT,Bhavnagar,0,25.31,0.47,0.32,Poor Condition
+GUJARAT,Botad,0,25.43,0.41,0.28,Poor Condition
+GUJARAT,Chota Udaipur,0.03,24.54,0.49,0.34,Poor Condition
+GUJARAT,Devbhumi Dwarka,0,24.38,0.63,0.42,Moderate Condition
+GUJARAT,Dohad,0.12,24.51,0.59,0.41,Moderate Condition
+GUJARAT,Gandhinagar,0,25.57,0.49,0.33,Poor Condition
+GUJARAT,Gir Somnath,0,24.6,0.56,0.38,Poor Condition
+GUJARAT,Jamnagar,0,25.14,0.53,0.35,Poor Condition
+GUJARAT,Junagadh,0,24.84,0.57,0.38,Poor Condition
+GUJARAT,Kachchh,0,24.59,0.47,0.32,Poor Condition
+GUJARAT,Kheda,0,26.04,0.48,0.32,Poor Condition
+GUJARAT,Mahesana,0,25.6,0.45,0.3,Poor Condition
+GUJARAT,Mahisagar,0.02,25.46,0.56,0.37,Poor Condition
+GUJARAT,Morbi,0,25.47,0.42,0.29,Poor Condition
+GUJARAT,Narmada,0,25.36,0.48,0.32,Poor Condition
+GUJARAT,Navsari,0,25.71,0.46,0.31,Poor Condition
+GUJARAT,Panch Mahals,0.03,25.55,0.48,0.33,Poor Condition
+GUJARAT,Patan,0,25.51,0.55,0.36,Poor Condition
+GUJARAT,Porbandar,0,25.03,0.56,0.37,Poor Condition
+GUJARAT,Rajkot,0,25.15,0.53,0.35,Poor Condition
+GUJARAT,Sabar Kantha,0,23.92,0.48,0.34,Poor Condition
+GUJARAT,Surat,0.03,26.18,0.54,0.35,Poor Condition
+GUJARAT,Surendranagar,0,25.54,0.6,0.39,Poor Condition
+GUJARAT,Tapi,0,24.55,0.48,0.33,Poor Condition
+GUJARAT,The Dangs,0,24.44,0.26,0.21,Poor Condition
+GUJARAT,Vadodara,0.01,24.88,0.54,0.36,Poor Condition
+GUJARAT,Valsad,0,24.71,0.53,0.36,Poor Condition
+HARYANA,Ambala,0.14,16.17,0.67,0.53,Moderate Condition
+HARYANA,Bhiwani,0.13,18.49,0.69,0.52,Moderate Condition
+HARYANA,Charki Dadri,0.16,18.51,0.7,0.53,Moderate Condition
+HARYANA,Faridabad,0.16,18.89,0.72,0.54,Moderate Condition
+HARYANA,Fatehabad,0.13,17.72,0.51,0.43,Moderate Condition
+HARYANA,Gurugram,0.07,18.54,0.77,0.56,Moderate Condition
+HARYANA,Hisar,0.21,19.07,0.53,0.43,Moderate Condition
+HARYANA,Jhajjar,0.16,18.53,0.71,0.53,Moderate Condition
+HARYANA,Jind,0.08,17.87,0.68,0.51,Moderate Condition
+HARYANA,Kaithal,0.03,17.87,0.77,0.56,Moderate Condition
+HARYANA,Karnal,0.08,17.38,0.78,0.57,Moderate Condition
+HARYANA,Kurukshetra,0.19,17.49,0.74,0.56,Moderate Condition
+HARYANA,Mahendragarh,0.27,18.72,0.72,0.55,Moderate Condition
+HARYANA,Nuh,0.23,18.26,0.68,0.53,Moderate Condition
+HARYANA,Palwal,0.16,18.41,0.63,0.49,Moderate Condition
+HARYANA,Panchkula,0.13,16.17,0.67,0.53,Moderate Condition
+HARYANA,Panipat,0.04,17.38,0.72,0.54,Moderate Condition
+HARYANA,Rewari,0.38,18.2,0.56,0.48,Moderate Condition
+HARYANA,Rohtak,0.13,18.18,0.69,0.52,Moderate Condition
+HARYANA,Sirsa,0.1,17.97,0.7,0.53,Moderate Condition
+HARYANA,Sonipat,0.22,18.53,0.69,0.53,Moderate Condition
+HARYANA,Yamunanagar,0.03,16.21,0.75,0.56,Moderate Condition
+HIMACHAL PRADESH,Bilaspur,0.24,12.14,0.55,0.51,Moderate Condition
+HIMACHAL PRADESH,Chamba,0.66,13.71,0.2,0.35,Poor Condition
+HIMACHAL PRADESH,Hamirpur,0.31,12.14,0.58,0.54,Moderate Condition
+HIMACHAL PRADESH,Kangra,0.62,14.59,0.47,0.49,Moderate Condition
+HIMACHAL PRADESH,Kinnaur,0.83,12.39,0.59,0.6,Moderate Condition
+HIMACHAL PRADESH,Kullu,1.05,11.93,0.02,0.31,Poor Condition
+HIMACHAL PRADESH,Lahul & Spiti,0.62,12.44,0.58,0.57,Moderate Condition
+HIMACHAL PRADESH,Mandi,0.65,12.13,0.22,0.37,Poor Condition
+HIMACHAL PRADESH,Shimla,0.62,14.02,-0.04,0.2,Poor Condition
+HIMACHAL PRADESH,Sirmaur,0.14,16.21,0.54,0.46,Moderate Condition
+HIMACHAL PRADESH,Solan,0.33,16.09,0.44,0.42,Moderate Condition
+HIMACHAL PRADESH,Una,0.13,12.14,0.58,0.51,Moderate Condition
+JAMMU & KASHMIR,Anantnag,0.48,10.4,0.1,0.3,Poor Condition
+JAMMU & KASHMIR,Badgam,0.34,6.81,0.48,0.53,Moderate Condition
+JAMMU & KASHMIR,Bandipore,0.81,6.86,0.04,0.34,Poor Condition
+JAMMU & KASHMIR,Baramula,0.66,6.79,0.25,0.44,Moderate Condition
+JAMMU & KASHMIR,Doda,1.3,12.8,0.09,0.37,Poor Condition
+JAMMU & KASHMIR,Ganderbal,0.78,6.89,0.08,0.36,Poor Condition
+JAMMU & KASHMIR,Jammu,0.14,10.18,0.44,0.46,Moderate Condition
+JAMMU & KASHMIR,Kathua,0.7,16.55,0.07,0.25,Poor Condition
+JAMMU & KASHMIR,Kishtwar,0.79,8.79,0.49,0.57,Moderate Condition
+JAMMU & KASHMIR,Kulgam,0.32,7.38,0.09,0.3,Poor Condition
+JAMMU & KASHMIR,Kupwara,0.67,6.8,0.45,0.55,Moderate Condition
+JAMMU & KASHMIR,Mirpur,0.23,8.48,0.12,0.3,Poor Condition
+JAMMU & KASHMIR,Muzaffarabad,0.69,6.8,0.08,0.35,Poor Condition
+JAMMU & KASHMIR,Pulwama,0.4,6.89,0.16,0.36,Poor Condition
+JAMMU & KASHMIR,Punch,0.62,6.98,0.02,0.3,Poor Condition
+JAMMU & KASHMIR,Rajouri,0.14,6.98,0.22,0.36,Poor Condition
+JAMMU & KASHMIR,Ramban,0.52,7.38,0.36,0.48,Moderate Condition
+JAMMU & KASHMIR,Reasi,0.34,7.38,0.46,0.51,Moderate Condition
+JAMMU & KASHMIR,Samba,0.13,15.98,0.21,0.27,Poor Condition
+JAMMU & KASHMIR,Shupiyan,0.07,7.38,0.24,0.36,Poor Condition
+JAMMU & KASHMIR,Srinagar,0.24,6.89,0.37,0.46,Moderate Condition
+JAMMU & KASHMIR,Udhampur,0.74,13.45,0.52,0.54,Moderate Condition
+JHARKHAND,Bokaro,0.06,21.96,0.37,0.3,Poor Condition
+JHARKHAND,Chatra,0.02,20.63,0.49,0.37,Poor Condition
+JHARKHAND,Deoghar,0,20.6,0.37,0.31,Poor Condition
+JHARKHAND,Dhanbad,0.05,22.04,0.39,0.31,Poor Condition
+JHARKHAND,Dumka,0.03,21.64,0.42,0.33,Poor Condition
+JHARKHAND,Garhwa,0.06,20.4,0.5,0.39,Poor Condition
+JHARKHAND,Giridih,0.01,21.14,0.39,0.31,Poor Condition
+JHARKHAND,Godda,0,21.17,0.49,0.37,Poor Condition
+JHARKHAND,Gumla,0.04,20.46,0.41,0.33,Poor Condition
+JHARKHAND,Hazaribagh,0.02,20.69,0.45,0.35,Poor Condition
+JHARKHAND,Jamtara,0,21.99,0.37,0.29,Poor Condition
+JHARKHAND,Khunti,0.01,21.18,0.43,0.33,Poor Condition
+JHARKHAND,Kodarma,0,20.76,0.49,0.37,Poor Condition
+JHARKHAND,Latehar,0.01,19.99,0.51,0.39,Poor Condition
+JHARKHAND,Lohardaga,0.05,19.94,0.46,0.37,Poor Condition
+JHARKHAND,Pakur,0,22.28,0.44,0.33,Poor Condition
+JHARKHAND,Palamu,0.01,20.2,0.47,0.37,Poor Condition
+JHARKHAND,Pashchimi Singhbhum,0.22,22,0.48,0.38,Poor Condition
+JHARKHAND,Purbi Singhbhum,0.16,23.12,0.41,0.32,Poor Condition
+JHARKHAND,Ramgarh,0.09,21.37,0.34,0.29,Poor Condition
+JHARKHAND,Ranchi,0.05,20.81,0.39,0.32,Poor Condition
+JHARKHAND,Sahibganj,0,21.17,0.51,0.38,Poor Condition
+JHARKHAND,Saraikela-kharsawan,0.08,22.78,0.37,0.29,Poor Condition
+JHARKHAND,Simdega,0,21.48,0.43,0.33,Poor Condition
+KARNATAKA,Bagalkote,0.07,24.47,0.38,0.28,Poor Condition
+KARNATAKA,Ballari,0,25.22,0.39,0.27,Poor Condition
+KARNATAKA,Bangalore,0,23.48,0.4,0.3,Poor Condition
+KARNATAKA,Belagavi,0.07,25.51,0.36,0.26,Poor Condition
+KARNATAKA,Bengaluru Rural,0,23.28,0.43,0.31,Poor Condition
+KARNATAKA,Bidar,0.12,25.15,0.37,0.28,Poor Condition
+KARNATAKA,Chamarajanagara,0.09,22.76,0.48,0.36,Poor Condition
+KARNATAKA,Chikkaballapura,0,22.88,0.41,0.31,Poor Condition
+KARNATAKA,Chikkamagaluru,0.02,23.16,0.63,0.43,Moderate Condition
+KARNATAKA,Chitradurga,0,24.56,0.38,0.27,Poor Condition
+KARNATAKA,Dakshina Kannada,0.21,25.56,0.74,0.49,Moderate Condition
+KARNATAKA,Davanagere,0,24.36,0.46,0.32,Poor Condition
+KARNATAKA,Dharwad,0.08,25.38,0.4,0.29,Poor Condition
+KARNATAKA,Gadag,0.16,24.26,0.36,0.28,Poor Condition
+KARNATAKA,Hassan,0.13,22.82,0.52,0.38,Poor Condition
+KARNATAKA,Haveri,0.03,24.86,0.44,0.31,Poor Condition
+KARNATAKA,Kalaburagi,0.1,25.49,0.37,0.27,Poor Condition
+KARNATAKA,Kodagu,0.41,25.92,0.75,0.52,Moderate Condition
+KARNATAKA,Kolar,0,22.46,0.45,0.33,Poor Condition
+KARNATAKA,Koppal,0.02,24.97,0.37,0.27,Poor Condition
+KARNATAKA,Mandya,0.5,23.42,0.5,0.41,Moderate Condition
+KARNATAKA,Mysuru,0.64,21.28,0.45,0.42,Moderate Condition
+KARNATAKA,Raichur,0.16,26.06,0.38,0.28,Poor Condition
+KARNATAKA,Ramanagara,0,24.25,0.45,0.32,Poor Condition
+KARNATAKA,Shivamogga,0.11,23.74,0.61,0.42,Moderate Condition
+KARNATAKA,Tumakuru,0,23.6,0.43,0.31,Poor Condition
+KARNATAKA,Udupi,0.01,25.25,0.71,0.46,Moderate Condition
+KARNATAKA,Uttara Kannada,0.14,26.64,0.67,0.43,Moderate Condition
+KARNATAKA,Vijayanagar,0,25.11,0.44,0.3,Poor Condition
+KARNATAKA,Vijayapura,0.05,25.29,0.38,0.27,Poor Condition
+KARNATAKA,Yadgir,0.19,25.67,0.37,0.28,Poor Condition
+KERALA,Alappuzha,2.12,28.66,0.7,0.66,Healthy Crop
+KERALA,Ernakulam,1.34,28.6,0.66,0.55,Moderate Condition
+KERALA,Idukki,0.83,26.61,0.76,0.56,Moderate Condition
+KERALA,Kannur,0.67,26.84,0.73,0.53,Moderate Condition
+KERALA,Kasaragod,0.26,26.47,0.72,0.48,Moderate Condition
+KERALA,Kollam,1.29,28.66,0.72,0.58,Moderate Condition
+KERALA,Kottayam,2.21,28.66,0.73,0.69,Healthy Crop
+KERALA,Kozhikode,0.98,22.74,0.72,0.59,Moderate Condition
+KERALA,Malappuram,0.91,22.79,0.69,0.57,Moderate Condition
+KERALA,Palakkad,1.14,24.98,0.69,0.57,Moderate Condition
+KERALA,Pathanamthitta,1.72,28.34,0.77,0.66,Healthy Crop
+KERALA,Thiruvananthapuram,1.45,28.38,0.72,0.6,Moderate Condition
+KERALA,Thrissur,1.7,27.88,0.69,0.61,Healthy Crop
+KERALA,Wayanad,0.71,22.74,0.71,0.56,Moderate Condition
+LADAKH,Kargil,0.4,7.03,0.01,0.27,Poor Condition
+LADAKH,Leh,0.25,6.79,-0.04,0.23,Poor Condition
+LAKSHADWEEP,Lakshadweep,0,28.82,0.54,0.33,Poor Condition
+MADHYA PRADESH,Agar Malwa,0.47,21.15,0.63,0.5,Moderate Condition
+MADHYA PRADESH,Alirajpur,0.1,22.67,0.51,0.38,Poor Condition
+MADHYA PRADESH,Anuppur,0.03,20.96,0.46,0.36,Poor Condition
+MADHYA PRADESH,Ashoknagar,0.3,21.03,0.67,0.5,Moderate Condition
+MADHYA PRADESH,Balaghat,0.01,22.16,0.53,0.38,Poor Condition
+MADHYA PRADESH,Barwani,0.06,22.82,0.46,0.34,Poor Condition
+MADHYA PRADESH,Betul,0,22.62,0.51,0.37,Poor Condition
+MADHYA PRADESH,Bhind,0.12,20.05,0.72,0.52,Moderate Condition
+MADHYA PRADESH,Bhopal,0.15,21.7,0.64,0.46,Moderate Condition
+MADHYA PRADESH,Burhanpur,0.06,24.38,0.47,0.33,Poor Condition
+MADHYA PRADESH,Chhatarpur,0.11,19.78,0.66,0.49,Moderate Condition
+MADHYA PRADESH,Chhindwara,0.02,21.2,0.52,0.39,Poor Condition
+MADHYA PRADESH,Damoh,0.01,21.54,0.58,0.42,Moderate Condition
+MADHYA PRADESH,Datia,0.24,20.28,0.74,0.54,Moderate Condition
+MADHYA PRADESH,Dewas,0.07,22.65,0.58,0.41,Moderate Condition
+MADHYA PRADESH,Dhar,0.17,22.56,0.56,0.41,Moderate Condition
+MADHYA PRADESH,Dindori,0.02,21.26,0.5,0.37,Poor Condition
+MADHYA PRADESH,Guna,0.32,20.46,0.63,0.49,Moderate Condition
+MADHYA PRADESH,Gwalior,0.38,20.25,0.66,0.51,Moderate Condition
+MADHYA PRADESH,Harda,0,23.22,0.59,0.4,Moderate Condition
+MADHYA PRADESH,Indore,0.28,22.39,0.51,0.4,Poor Condition
+MADHYA PRADESH,Jabalpur,0,21.33,0.61,0.43,Moderate Condition
+MADHYA PRADESH,Jhabua,0.31,22.83,0.47,0.38,Poor Condition
+MADHYA PRADESH,Katni,0,20.53,0.51,0.38,Poor Condition
+MADHYA PRADESH,Khandwa,0.01,22.82,0.65,0.44,Moderate Condition
+MADHYA PRADESH,Khargone,0.08,23.32,0.7,0.47,Moderate Condition
+MADHYA PRADESH,Mandla,0,21.29,0.51,0.38,Poor Condition
+MADHYA PRADESH,Mandsaur,0.15,22.86,0.6,0.43,Moderate Condition
+MADHYA PRADESH,Morena,0.1,19.98,0.64,0.47,Moderate Condition
+MADHYA PRADESH,Narmadapuram,0,21.75,0.63,0.44,Moderate Condition
+MADHYA PRADESH,Narsimhapur,0,21.33,0.68,0.47,Moderate Condition
+MADHYA PRADESH,Neemuch,0.13,21.66,0.62,0.45,Moderate Condition
+MADHYA PRADESH,Niwari,0.25,20.2,0.56,0.44,Moderate Condition
+MADHYA PRADESH,Panna,0.05,20.16,0.52,0.4,Poor Condition
+MADHYA PRADESH,Raisen,0.04,21.88,0.68,0.47,Moderate Condition
+MADHYA PRADESH,Rajgarh,0.26,21.2,0.73,0.53,Moderate Condition
+MADHYA PRADESH,Ratlam,0.49,22.71,0.56,0.45,Moderate Condition
+MADHYA PRADESH,Rewa,0.04,20.31,0.63,0.46,Moderate Condition
+MADHYA PRADESH,Sagar,0.04,21.77,0.66,0.46,Moderate Condition
+MADHYA PRADESH,Satna,0.06,19.76,0.6,0.45,Moderate Condition
+MADHYA PRADESH,Sehore,0.08,21.97,0.59,0.43,Moderate Condition
+MADHYA PRADESH,Seoni,0.02,22.01,0.64,0.45,Moderate Condition
+MADHYA PRADESH,Shahdol,0,20.31,0.6,0.44,Moderate Condition
+MADHYA PRADESH,Shajapur,0.28,21.19,0.62,0.47,Moderate Condition
+MADHYA PRADESH,Sheopur,0.25,20.47,0.55,0.44,Moderate Condition
+MADHYA PRADESH,Shivpuri,0.46,20.55,0.48,0.42,Moderate Condition
+MADHYA PRADESH,Sidhi,0.05,20.29,0.66,0.48,Moderate Condition
+MADHYA PRADESH,Singrauli,0.1,20.12,0.53,0.41,Moderate Condition
+MADHYA PRADESH,Tikamgarh,0.36,20.76,0.59,0.47,Moderate Condition
+MADHYA PRADESH,Ujjain,0.45,21.86,0.58,0.46,Moderate Condition
+MADHYA PRADESH,Umaria,0,20.43,0.49,0.37,Poor Condition
+MADHYA PRADESH,Vidisha,0.11,21.61,0.7,0.49,Moderate Condition
+MAHARASHTRA,Ahmadnagar,0,23.99,0.43,0.31,Poor Condition
+MAHARASHTRA,Akola,0,25.44,0.45,0.31,Poor Condition
+MAHARASHTRA,Amravati,0,24.97,0.46,0.32,Poor Condition
+MAHARASHTRA,Aurangabad,0,24.47,0.47,0.33,Poor Condition
+MAHARASHTRA,Bhandara,0,23.92,0.49,0.34,Poor Condition
+MAHARASHTRA,Bid,0.03,24.15,0.42,0.3,Poor Condition
+MAHARASHTRA,Buldana,0,25.24,0.46,0.31,Poor Condition
+MAHARASHTRA,Chandrapur,0.02,25.04,0.48,0.33,Poor Condition
+MAHARASHTRA,Dhule,0,23.77,0.44,0.32,Poor Condition
+MAHARASHTRA,Gadchiroli,0.07,24.95,0.54,0.37,Poor Condition
+MAHARASHTRA,Gondiya,0.01,22.97,0.48,0.35,Poor Condition
+MAHARASHTRA,Hingoli,0.01,25.22,0.45,0.31,Poor Condition
+MAHARASHTRA,Jalgaon,0,24.61,0.52,0.35,Poor Condition
+MAHARASHTRA,Jalna,0,24.85,0.5,0.34,Poor Condition
+MAHARASHTRA,Kolhapur,0.01,26.43,0.46,0.3,Poor Condition
+MAHARASHTRA,Latur,0.11,24.8,0.42,0.31,Poor Condition
+MAHARASHTRA,Mumbai,0,27.09,0.31,0.21,Poor Condition
+MAHARASHTRA,Mumbai Suburban,0,27.09,0.39,0.26,Poor Condition
+MAHARASHTRA,Nagpur,0.06,23.77,0.39,0.29,Poor Condition
+MAHARASHTRA,Nanded,0.05,24.52,0.48,0.34,Poor Condition
+MAHARASHTRA,Nandurbar,0,23.51,0.46,0.33,Poor Condition
+MAHARASHTRA,Nashik,0,24.06,0.45,0.32,Poor Condition
+MAHARASHTRA,Osmanabad,0.04,25.13,0.44,0.31,Poor Condition
+MAHARASHTRA,Palghar,0,25.47,0.4,0.28,Poor Condition
+MAHARASHTRA,Parbhani,0.12,24.68,0.47,0.34,Poor Condition
+MAHARASHTRA,Pune,0,24.74,0.51,0.35,Poor Condition
+MAHARASHTRA,Raigarh,0,26.15,0.41,0.28,Poor Condition
+MAHARASHTRA,Ratnagiri,0,25.7,0.48,0.32,Poor Condition
+MAHARASHTRA,Sangli,0.01,25.81,0.57,0.37,Poor Condition
+MAHARASHTRA,Satara,0,24.34,0.37,0.27,Poor Condition
+MAHARASHTRA,Sindhudurg,0,26.21,0.41,0.28,Poor Condition
+MAHARASHTRA,Solapur,0.03,24.98,0.59,0.39,Poor Condition
+MAHARASHTRA,Thane,0,25.87,0.42,0.29,Poor Condition
+MAHARASHTRA,Wardha,0.01,24.75,0.47,0.32,Poor Condition
+MAHARASHTRA,Washim,0,25.28,0.44,0.3,Poor Condition
+MAHARASHTRA,Yavatmal,0.01,24.96,0.44,0.31,Poor Condition
+MANIPUR,Bishnupur,0.01,20.69,0.4,0.32,Poor Condition
+MANIPUR,Chandel,0.01,20.75,0.77,0.53,Moderate Condition
+MANIPUR,Churachandpur,0.01,20.78,0.76,0.52,Moderate Condition
+MANIPUR,Imphal East,0,20.24,0.35,0.3,Poor Condition
+MANIPUR,Imphal West,0,20.24,0.41,0.33,Poor Condition
+MANIPUR,Jiribam,0,20.83,0.74,0.51,Moderate Condition
+MANIPUR,Kakching,0.01,20.69,0.67,0.47,Moderate Condition
+MANIPUR,Kamjong,0,20.24,0.83,0.57,Moderate Condition
+MANIPUR,Kangpokpi,0,20.24,0.4,0.33,Poor Condition
+MANIPUR,Noney,0,20.77,0.67,0.47,Moderate Condition
+MANIPUR,Pherzawl,0,20.83,0.79,0.54,Moderate Condition
+MANIPUR,Senapati,0,20.28,0.78,0.54,Moderate Condition
+MANIPUR,Tamenglong,0,19.81,0.65,0.47,Moderate Condition
+MANIPUR,Tengnoupal,0.01,20.69,0.76,0.52,Moderate Condition
+MANIPUR,Thoubal,0.01,20.69,0.81,0.55,Moderate Condition
+MANIPUR,Ukhrul,0.02,20.28,0.44,0.35,Poor Condition
+MEGHALAYA,East Garo Hills,0,20.23,0.7,0.49,Moderate Condition
+MEGHALAYA,East Jaintia Hills,0,18.93,0.62,0.46,Moderate Condition
+MEGHALAYA,East Khasi Hills,0.12,17.43,0.64,0.5,Moderate Condition
+MEGHALAYA,Eastern West Khasi Hills,0.54,17.46,0.69,0.58,Moderate Condition
+MEGHALAYA,North Garo Hills,0,19.83,0.65,0.47,Moderate Condition
+MEGHALAYA,Ribhoi,0.1,18.62,0.71,0.53,Moderate Condition
+MEGHALAYA,South Garo Hills,0.01,20.23,0.61,0.44,Moderate Condition
+MEGHALAYA,South West Garo Hills,0,21.64,0.64,0.45,Moderate Condition
+MEGHALAYA,South West Khasi Hills,0.01,17.46,0.62,0.47,Moderate Condition
+MEGHALAYA,West Garo Hills,0,19.83,0.66,0.47,Moderate Condition
+MEGHALAYA,West Jaintia Hills,0.05,18.93,0.61,0.46,Moderate Condition
+MEGHALAYA,West Khasi Hills,0.28,18.5,0.64,0.51,Moderate Condition
+MIZORAM,Aizawl,0,20.93,0.79,0.54,Moderate Condition
+MIZORAM,Champhai,0,20.89,0.78,0.53,Moderate Condition
+MIZORAM,Hnahthial,0,20.93,0.79,0.54,Moderate Condition
+MIZORAM,Khawzawl,0.01,20.93,0.79,0.54,Moderate Condition
+MIZORAM,Kolasib,0,20.57,0.78,0.54,Moderate Condition
+MIZORAM,Lawngtlai,0,20.94,0.75,0.52,Moderate Condition
+MIZORAM,Lunglei,0,20.97,0.76,0.52,Moderate Condition
+MIZORAM,Mamit,0,20.77,0.78,0.53,Moderate Condition
+MIZORAM,Saiha,0,20.94,0.79,0.54,Moderate Condition
+MIZORAM,Saitual,0,20.92,0.8,0.54,Moderate Condition
+MIZORAM,Serchhip,0,20.93,0.8,0.54,Moderate Condition
+NAGALAND,Dimapur,0.01,19.95,0.71,0.5,Moderate Condition
+NAGALAND,Kiphire,0.23,19.69,0.68,0.51,Moderate Condition
+NAGALAND,Kohima,0.12,19.95,0.75,0.54,Moderate Condition
+NAGALAND,Longleng,0.19,20.97,0.73,0.53,Moderate Condition
+NAGALAND,Mokokchung,0.31,20.71,0.74,0.55,Moderate Condition
+NAGALAND,Mon,0.09,20.97,0.7,0.5,Moderate Condition
+NAGALAND,Noklak,0.25,19.69,0.73,0.54,Moderate Condition
+NAGALAND,Peren,0.01,19.82,0.59,0.44,Moderate Condition
+NAGALAND,Phek,0.14,20.28,0.71,0.52,Moderate Condition
+NAGALAND,Tuensang,0.28,19.69,0.71,0.54,Moderate Condition
+NAGALAND,Wokha,0.34,19.95,0.69,0.53,Moderate Condition
+NAGALAND,Zunheboto,0.29,19.94,0.72,0.54,Moderate Condition
+ODISHA,Anugul,0.07,23.31,0.49,0.36,Poor Condition
+ODISHA,Balangir,0.03,23.67,0.46,0.33,Poor Condition
+ODISHA,Baleshwar,0.03,23.75,0.37,0.28,Poor Condition
+ODISHA,Bargarh,0.07,24.06,0.39,0.29,Poor Condition
+ODISHA,Baudh,0.04,23.53,0.45,0.33,Poor Condition
+ODISHA,Bhadrak,0.01,24.06,0.51,0.35,Poor Condition
+ODISHA,Cuttack,0.04,24.14,0.34,0.26,Poor Condition
+ODISHA,Deogarh,0.02,23.72,0.42,0.31,Poor Condition
+ODISHA,Dhenkanal,0.02,23.8,0.5,0.35,Poor Condition
+ODISHA,Gajapati,0.27,23.71,0.47,0.36,Poor Condition
+ODISHA,Ganjam,0.02,23.69,0.58,0.4,Poor Condition
+ODISHA,Jagatsinghapur,0.03,24.46,0.52,0.36,Poor Condition
+ODISHA,Jajapur,0.02,23.81,0.36,0.27,Poor Condition
+ODISHA,Jharsuguda,0,22.64,0.4,0.3,Poor Condition
+ODISHA,Kalahandi,0,23.42,0.32,0.25,Poor Condition
+ODISHA,Kandhamal,0.05,23.37,0.5,0.36,Poor Condition
+ODISHA,Kendrapara,0.04,24.26,0.61,0.41,Moderate Condition
+ODISHA,Kendujhar,0.26,23.22,0.39,0.32,Poor Condition
+ODISHA,Khordha,0.25,24.54,0.44,0.34,Poor Condition
+ODISHA,Koraput,0.36,24.09,0.45,0.36,Poor Condition
+ODISHA,Malkangiri,0.19,23.64,0.48,0.36,Poor Condition
+ODISHA,Mayurbhanj,0.29,23.39,0.5,0.39,Poor Condition
+ODISHA,Nabarangapur,0.03,23.47,0.48,0.34,Poor Condition
+ODISHA,Nayagarh,0.1,24.78,0.43,0.31,Poor Condition
+ODISHA,Nuapada,0.03,23.87,0.56,0.39,Poor Condition
+ODISHA,Puri,0.02,24.48,0.45,0.32,Poor Condition
+ODISHA,Rayagada,0.09,23.07,0.43,0.33,Poor Condition
+ODISHA,Sambalpur,0,23.38,0.58,0.4,Poor Condition
+ODISHA,Subarnapur,0,23.7,0.48,0.34,Poor Condition
+ODISHA,Sundargarh,0.02,22.49,0.39,0.3,Poor Condition
+PUDUCHERRY,Karaikal,0.36,26.08,0.58,0.41,Moderate Condition
+PUDUCHERRY,Mahe,1.33,23.88,0.59,0.55,Moderate Condition
+PUDUCHERRY,Puducherry,0,25.75,0.56,0.37,Poor Condition
+PUDUCHERRY,Yanam,0.37,26.22,0.52,0.38,Poor Condition
+PUNJAB,Amritsar,0,16.59,0.73,0.54,Moderate Condition
+PUNJAB,Barnala,0.02,16.57,0.76,0.56,Moderate Condition
+PUNJAB,Bathinda,0.01,16.85,0.75,0.55,Moderate Condition
+PUNJAB,Faridkot,0,17.09,0.76,0.56,Moderate Condition
+PUNJAB,Fatehgarh Sahib,0,17.53,0.73,0.54,Moderate Condition
+PUNJAB,Fazilka,0.02,17.47,0.73,0.54,Moderate Condition
+PUNJAB,Firozpur,0.01,16.59,0.76,0.56,Moderate Condition
+PUNJAB,Gurdaspur,0.03,16.38,0.74,0.56,Moderate Condition
+PUNJAB,Hoshiarpur,0.1,16.33,0.64,0.51,Moderate Condition
+PUNJAB,Jalandhar,0.01,16.73,0.67,0.51,Moderate Condition
+PUNJAB,Kapurthala,0.02,16.4,0.69,0.53,Moderate Condition
+PUNJAB,Ludhiana,0.01,16.8,0.68,0.51,Moderate Condition
+PUNJAB,Malerkotla,0,17.2,0.77,0.56,Moderate Condition
+PUNJAB,Mansa,0.05,16.91,0.73,0.55,Moderate Condition
+PUNJAB,Moga,0.02,17.09,0.77,0.56,Moderate Condition
+PUNJAB,Pathankot,0.04,14.95,0.75,0.57,Moderate Condition
+PUNJAB,Patiala,0.06,17.53,0.66,0.5,Moderate Condition
+PUNJAB,Rupnagar,0.04,16.15,0.59,0.47,Moderate Condition
+PUNJAB,Sahibzada Ajit Singh Nag*,0.03,16.17,0.7,0.53,Moderate Condition
+PUNJAB,Sangrur,0.05,17.17,0.78,0.57,Moderate Condition
+PUNJAB,Shahid Bhagat Singh Nagar,0.03,16.15,0.61,0.48,Moderate Condition
+PUNJAB,Sri Muktsar Sahib,0.03,17.43,0.76,0.56,Moderate Condition
+PUNJAB,Tarn Taran,0.01,16.59,0.78,0.57,Moderate Condition
+RAJASTHAN,Ajmer,0.29,20.84,0.53,0.43,Moderate Condition
+RAJASTHAN,Alwar,0.22,19.28,0.62,0.48,Moderate Condition
+RAJASTHAN,Banswara,0.08,23.27,0.55,0.39,Poor Condition
+RAJASTHAN,Baran,0.34,20.72,0.62,0.48,Moderate Condition
+RAJASTHAN,Barmer,0,22.94,0.23,0.21,Poor Condition
+RAJASTHAN,Bharatpur,0.11,20.56,0.69,0.5,Moderate Condition
+RAJASTHAN,Bhilwara,0.41,21.44,0.53,0.43,Moderate Condition
+RAJASTHAN,Bikaner,0.01,21.32,0.24,0.23,Poor Condition
+RAJASTHAN,Bundi,0.07,21.49,0.6,0.43,Moderate Condition
+RAJASTHAN,Chittaurgarh,0.22,21.62,0.55,0.42,Moderate Condition
+RAJASTHAN,Churu,0.15,19.75,0.34,0.31,Poor Condition
+RAJASTHAN,Dausa,0.35,20.47,0.61,0.48,Moderate Condition
+RAJASTHAN,Dhaulpur,0.22,20.27,0.6,0.46,Moderate Condition
+RAJASTHAN,Dungarpur,0,24.55,0.5,0.34,Poor Condition
+RAJASTHAN,Ganganagar,0.05,19.55,0.54,0.42,Moderate Condition
+RAJASTHAN,Hanumangarh,0.33,18.94,0.56,0.46,Moderate Condition
+RAJASTHAN,Jaipur,0.49,20.27,0.52,0.45,Moderate Condition
+RAJASTHAN,Jaisalmer,0,23.02,0.52,0.37,Poor Condition
+RAJASTHAN,Jalor,0,22.01,0.17,0.18,Severe Stress
+RAJASTHAN,Jhalawar,0.24,21.4,0.4,0.34,Poor Condition
+RAJASTHAN,Jhunjhunun,0.27,19.28,0.59,0.47,Moderate Condition
+RAJASTHAN,Jodhpur,0,22.56,0.5,0.36,Poor Condition
+RAJASTHAN,Karauli,0.2,20.92,0.3,0.29,Poor Condition
+RAJASTHAN,Kota,0.17,21.2,0.62,0.46,Moderate Condition
+RAJASTHAN,Nagaur,0.06,20.9,0.34,0.29,Poor Condition
+RAJASTHAN,Pali,0.1,22.12,0.44,0.34,Poor Condition
+RAJASTHAN,Pratapgarh,0.2,23.01,0.56,0.41,Moderate Condition
+RAJASTHAN,Rajsamand,0.1,21.39,0.44,0.35,Poor Condition
+RAJASTHAN,Sawai Madhopur,0.23,20.38,0.62,0.47,Moderate Condition
+RAJASTHAN,Sikar,0.28,19.68,0.44,0.38,Poor Condition
+RAJASTHAN,Sirohi,0,21.71,0.47,0.35,Poor Condition
+RAJASTHAN,Tonk,0.25,20.69,0.61,0.47,Moderate Condition
+RAJASTHAN,Udaipur,0.01,21.55,0.48,0.36,Poor Condition
+SIKKIM,East District,0.39,15.07,0.46,0.45,Moderate Condition
+SIKKIM,North  District,0.65,15.07,0.23,0.35,Poor Condition
+SIKKIM,South District,0.44,15.07,0.51,0.48,Moderate Condition
+SIKKIM,West District,0.67,15.09,0.46,0.48,Moderate Condition
+TAMIL NADU,Ariyalur,0.03,26.89,0.6,0.38,Poor Condition
+TAMIL NADU,Chengalpattu,0,26.34,0.58,0.37,Poor Condition
+TAMIL NADU,Chennai,0,26.23,0.37,0.25,Poor Condition
+TAMIL NADU,Coimbatore,0.73,24.61,0.56,0.46,Moderate Condition
+TAMIL NADU,Cuddalore,0.05,26.46,0.55,0.36,Poor Condition
+TAMIL NADU,Dharmapuri,0.01,24.71,0.51,0.35,Poor Condition
+TAMIL NADU,Dindigul,0.37,23.72,0.6,0.45,Moderate Condition
+TAMIL NADU,Erode,0.32,22.98,0.55,0.42,Moderate Condition
+TAMIL NADU,KAnchipuram,0,26.23,0.51,0.33,Poor Condition
+TAMIL NADU,Kallakurichchi,0.02,25.04,0.57,0.38,Poor Condition
+TAMIL NADU,Kanniyakumari,0.81,28.39,0.53,0.42,Moderate Condition
+TAMIL NADU,Karur,0.01,27.27,0.69,0.43,Moderate Condition
+TAMIL NADU,Krishnagiri,0,23.39,0.58,0.4,Poor Condition
+TAMIL NADU,Madurai,0.05,24.21,0.48,0.34,Poor Condition
+TAMIL NADU,Mayiladuthurai,0.14,26.36,0.57,0.38,Poor Condition
+TAMIL NADU,Nagapattinam,0.25,26.2,0.61,0.42,Moderate Condition
+TAMIL NADU,Namakkal,0.08,26.92,0.54,0.35,Poor Condition
+TAMIL NADU,Perambalur,0,26.89,0.59,0.37,Poor Condition
+TAMIL NADU,Pudukkottai,0,27.08,0.59,0.37,Poor Condition
+TAMIL NADU,Ramanathapuram,0.06,27.21,0.5,0.32,Poor Condition
+TAMIL NADU,Ranipet,0,26.2,0.53,0.34,Poor Condition
+TAMIL NADU,Salem,0.09,27.12,0.53,0.35,Poor Condition
+TAMIL NADU,Sivaganga,0.01,27.21,0.5,0.32,Poor Condition
+TAMIL NADU,Tenkasi,2.63,27.99,0.54,0.63,Healthy Crop
+TAMIL NADU,Thanjavur,0.08,26.36,0.53,0.35,Poor Condition
+TAMIL NADU,The Nilgiris,0.56,21.34,0.48,0.42,Moderate Condition
+TAMIL NADU,Theni,0.59,24.41,0.58,0.46,Moderate Condition
+TAMIL NADU,Thiruvallur,0,26.22,0.58,0.37,Poor Condition
+TAMIL NADU,Thiruvarur,0.01,26.29,0.59,0.38,Poor Condition
+TAMIL NADU,Thoothukkudi,0.75,27.74,0.57,0.44,Moderate Condition
+TAMIL NADU,Tiruchirappalli,0,27.24,0.61,0.38,Poor Condition
+TAMIL NADU,Tirunelveli,1.17,28.39,0.71,0.56,Moderate Condition
+TAMIL NADU,Tiruppattur,0,24.42,0.52,0.35,Poor Condition
+TAMIL NADU,Tiruppur,1.14,23.86,0.64,0.56,Moderate Condition
+TAMIL NADU,Tiruvannamalai,0,25.43,0.51,0.34,Poor Condition
+TAMIL NADU,Vellore,0,24.91,0.61,0.4,Moderate Condition
+TAMIL NADU,Viluppuram,0,25.75,0.59,0.38,Poor Condition
+TAMIL NADU,Virudhunagar,0.23,25.88,0.48,0.35,Poor Condition
+TELANGANA,Adilabad,0.27,24.9,0.45,0.34,Poor Condition
+TELANGANA,Bhadradri Kothagudem,0.38,25.78,0.5,0.37,Poor Condition
+TELANGANA,Hyderabad,0.19,25.23,0.54,0.38,Poor Condition
+TELANGANA,Jagitial,0.16,25.22,0.55,0.38,Poor Condition
+TELANGANA,Jangoan,0.18,25.41,0.37,0.28,Poor Condition
+TELANGANA,Jayashankar,0.13,25.39,0.38,0.28,Poor Condition
+TELANGANA,Jogulamba Gadwal,0.2,26.31,0.46,0.33,Poor Condition
+TELANGANA,Kamareddy,0.17,24.6,0.39,0.3,Poor Condition
+TELANGANA,Karimnagar,0.01,24.94,0.24,0.19,Severe Stress
+TELANGANA,Khammam,0.66,26.5,0.48,0.39,Poor Condition
+TELANGANA,Kumuram Bheem Asifabad,0.29,25.68,0.53,0.38,Poor Condition
+TELANGANA,Mahabubabad,0.1,25.87,0.36,0.26,Poor Condition
+TELANGANA,Mahabubnagar,0.43,25.5,0.49,0.38,Poor Condition
+TELANGANA,Mancherial,0.07,25.21,0.39,0.28,Poor Condition
+TELANGANA,Medak,0.3,24.86,0.45,0.35,Poor Condition
+TELANGANA,Medchal Malkajgiri,0.19,25.23,0.47,0.34,Poor Condition
+TELANGANA,Mulugu,0.01,24,0.6,0.4,Moderate Condition
+TELANGANA,Nagarkurnool,0.24,26.12,0.53,0.37,Poor Condition
+TELANGANA,Nalgonda,0.15,25.83,0.46,0.33,Poor Condition
+TELANGANA,Narayanpet,0.36,26.44,0.5,0.37,Poor Condition
+TELANGANA,Nirmal,0.09,24.71,0.49,0.35,Poor Condition
+TELANGANA,Nizamabad,0.16,24.86,0.44,0.32,Poor Condition
+TELANGANA,Peddapalli,0.02,25.09,0.4,0.28,Poor Condition
+TELANGANA,Rajanna Sircilla,0,25.12,0.51,0.34,Poor Condition
+TELANGANA,Ranga Reddy,0.23,25.38,0.55,0.39,Poor Condition
+TELANGANA,Sangareddy,0.21,24.44,0.35,0.28,Poor Condition
+TELANGANA,Siddipet,0.18,24.8,0.53,0.38,Poor Condition
+TELANGANA,Suryapet,0.54,26.36,0.51,0.39,Poor Condition
+TELANGANA,Vikarabad,0.15,25.42,0.37,0.28,Poor Condition
+TELANGANA,Wanaparthy,0.22,26.01,0.45,0.33,Poor Condition
+TELANGANA,Warangal Rural,0.26,25.58,0.59,0.41,Moderate Condition
+TELANGANA,Warangal Urban,0.02,25.56,0.44,0.3,Poor Condition
+TELANGANA,Yadadri Bhuvanagiri,0.01,24.81,0.53,0.36,Poor Condition
+TRIPURA,Dhalai,0,20.57,0.67,0.47,Moderate Condition
+TRIPURA,Gomati,0,20.59,0.61,0.44,Moderate Condition
+TRIPURA,Khowai,0,20.57,0.61,0.44,Moderate Condition
+TRIPURA,North Tripura,0,20.57,0.67,0.47,Moderate Condition
+TRIPURA,Sipahijala,0,20.59,0.5,0.38,Poor Condition
+TRIPURA,South Tripura,0,20.59,0.58,0.42,Moderate Condition
+TRIPURA,Unokoti,0,20.57,0.61,0.44,Moderate Condition
+TRIPURA,West Tripura,0,20.57,0.52,0.39,Poor Condition
+UTTAR PRADESH,Agra,0.13,20.34,0.69,0.5,Moderate Condition
+UTTAR PRADESH,Aligarh,0.11,18.55,0.69,0.52,Moderate Condition
+UTTAR PRADESH,Ambedkar Nagar,0.02,19.06,0.69,0.5,Moderate Condition
+UTTAR PRADESH,Amethi,0.1,19.32,0.69,0.51,Moderate Condition
+UTTAR PRADESH,Amroha,0.37,17.5,0.59,0.5,Moderate Condition
+UTTAR PRADESH,Auraiya,0.06,19.33,0.72,0.52,Moderate Condition
+UTTAR PRADESH,Azamgarh,0.01,20.04,0.67,0.48,Moderate Condition
+UTTAR PRADESH,Baghpat,0.22,18.31,0.64,0.5,Moderate Condition
+UTTAR PRADESH,Bahraich,0.04,19.05,0.6,0.45,Moderate Condition
+UTTAR PRADESH,Ballia,0,19.66,0.63,0.46,Moderate Condition
+UTTAR PRADESH,Balrampur,0,18.93,0.68,0.49,Moderate Condition
+UTTAR PRADESH,Banda,0.15,20.05,0.7,0.51,Moderate Condition
+UTTAR PRADESH,Bara Banki,0.32,19.12,0.65,0.51,Moderate Condition
+UTTAR PRADESH,Bareilly,0,18.08,0.67,0.5,Moderate Condition
+UTTAR PRADESH,Basti,0.04,19.02,0.65,0.48,Moderate Condition
+UTTAR PRADESH,Bhadohi,0,20.27,0.54,0.4,Moderate Condition
+UTTAR PRADESH,Bijnor,0.17,17.99,0.71,0.54,Moderate Condition
+UTTAR PRADESH,Budaun,0.01,18.68,0.56,0.43,Moderate Condition
+UTTAR PRADESH,Bulandshahr,0.2,19.04,0.66,0.5,Moderate Condition
+UTTAR PRADESH,Chandauli,0,20.28,0.59,0.43,Moderate Condition
+UTTAR PRADESH,Chitrakoot,0.06,20.24,0.64,0.47,Moderate Condition
+UTTAR PRADESH,Deoria,0,19.39,0.67,0.48,Moderate Condition
+UTTAR PRADESH,Etah,0.03,18.94,0.7,0.51,Moderate Condition
+UTTAR PRADESH,Etawah,0.02,19.6,0.65,0.47,Moderate Condition
+UTTAR PRADESH,Faizabad,0.07,19.25,0.7,0.51,Moderate Condition
+UTTAR PRADESH,Farrukhabad,0,18.47,0.63,0.47,Moderate Condition
+UTTAR PRADESH,Fatehpur,0.05,19.76,0.71,0.51,Moderate Condition
+UTTAR PRADESH,Firozabad,0.1,19.95,0.7,0.51,Moderate Condition
+UTTAR PRADESH,Gautam Buddha Nagar,0.03,18.89,0.54,0.42,Moderate Condition
+UTTAR PRADESH,Ghaziabad,0.28,18.31,0.64,0.51,Moderate Condition
+UTTAR PRADESH,Ghazipur,0,20,0.48,0.37,Poor Condition
+UTTAR PRADESH,Gonda,0.09,18.99,0.63,0.48,Moderate Condition
+UTTAR PRADESH,Gorakhpur,0,19.39,0.67,0.48,Moderate Condition
+UTTAR PRADESH,Hamirpur,0.21,19.82,0.73,0.54,Moderate Condition
+UTTAR PRADESH,Hapur,0.22,18.33,0.6,0.48,Moderate Condition
+UTTAR PRADESH,Hardoi,0.02,18.87,0.71,0.51,Moderate Condition
+UTTAR PRADESH,Hathras,0,18.98,0.69,0.5,Moderate Condition
+UTTAR PRADESH,Jalaun,0.18,19.97,0.72,0.53,Moderate Condition
+UTTAR PRADESH,Jaunpur,0.01,20.27,0.68,0.48,Moderate Condition
+UTTAR PRADESH,Jhansi,0.29,20.25,0.72,0.54,Moderate Condition
+UTTAR PRADESH,Kannauj,0.02,19.07,0.66,0.48,Moderate Condition
+UTTAR PRADESH,Kanpur Dehat,0.11,19.09,0.66,0.49,Moderate Condition
+UTTAR PRADESH,Kanpur Nagar,0.15,19.12,0.72,0.53,Moderate Condition
+UTTAR PRADESH,Kasganj,0.11,18.75,0.66,0.5,Moderate Condition
+UTTAR PRADESH,Kaushambi,0.03,20.01,0.7,0.5,Moderate Condition
+UTTAR PRADESH,Kheri,0,18.57,0.57,0.44,Moderate Condition
+UTTAR PRADESH,Kushinagar,0,20.08,0.55,0.41,Moderate Condition
+UTTAR PRADESH,Lalitpur,0.38,20.79,0.68,0.52,Moderate Condition
+UTTAR PRADESH,Lucknow,0.23,19.12,0.6,0.47,Moderate Condition
+UTTAR PRADESH,Mahoba,0.18,19.82,0.71,0.52,Moderate Condition
+UTTAR PRADESH,Mahrajganj,0,19.53,0.61,0.45,Moderate Condition
+UTTAR PRADESH,Mainpuri,0.01,19.6,0.7,0.5,Moderate Condition
+UTTAR PRADESH,Mathura,0.09,19.52,0.7,0.51,Moderate Condition
+UTTAR PRADESH,Mau,0,19.4,0.72,0.51,Moderate Condition
+UTTAR PRADESH,Meerut,0.31,18.32,0.65,0.52,Moderate Condition
+UTTAR PRADESH,Mirzapur,0,20.41,0.56,0.41,Moderate Condition
+UTTAR PRADESH,Moradabad,0.28,16.01,0.56,0.49,Moderate Condition
+UTTAR PRADESH,Muzaffarnagar,0.21,17.71,0.66,0.52,Moderate Condition
+UTTAR PRADESH,Pilibhit,0,18.15,0.56,0.43,Moderate Condition
+UTTAR PRADESH,Pratapgarh,0.03,19.84,0.62,0.46,Moderate Condition
+UTTAR PRADESH,Prayagraj,0,20.29,0.7,0.49,Moderate Condition
+UTTAR PRADESH,Rae Bareli,0.08,19.4,0.67,0.49,Moderate Condition
+UTTAR PRADESH,Rampur,0.15,17.06,0.64,0.51,Moderate Condition
+UTTAR PRADESH,Saharanpur,0.06,16.28,0.69,0.53,Moderate Condition
+UTTAR PRADESH,Sambhal,0.11,18.25,0.71,0.53,Moderate Condition
+UTTAR PRADESH,Sant Kabir Nagar,0,19.11,0.62,0.46,Moderate Condition
+UTTAR PRADESH,Shahjahanpur,0,18.55,0.68,0.5,Moderate Condition
+UTTAR PRADESH,Shamli,0.06,17.71,0.71,0.53,Moderate Condition
+UTTAR PRADESH,Shrawasti,0,19.06,0.71,0.51,Moderate Condition
+UTTAR PRADESH,Siddharthnagar,0,18.82,0.62,0.46,Moderate Condition
+UTTAR PRADESH,Sitapur,0.04,19.14,0.69,0.5,Moderate Condition
+UTTAR PRADESH,Sonbhadra,0.08,20.16,0.74,0.53,Moderate Condition
+UTTAR PRADESH,Sultanpur,0.04,19.94,0.64,0.47,Moderate Condition
+UTTAR PRADESH,Unnao,0.14,19.2,0.49,0.4,Moderate Condition
+UTTAR PRADESH,Varanasi,0,19.81,0.67,0.48,Moderate Condition
+UTTARAKHAND,"Almora
+",0.16,14.9,0.61,0.51,Moderate Condition
+UTTARAKHAND,Bageshwar,0.27,14.23,0.49,0.46,Moderate Condition
+UTTARAKHAND,Chamoli,0.26,13.58,0.58,0.52,Moderate Condition
+UTTARAKHAND,Champawat,0.09,14.15,0.27,0.32,Poor Condition
+UTTARAKHAND,Dehradun,0.18,14.99,0.66,0.54,Moderate Condition
+UTTARAKHAND,Garhwal,0.03,15.81,0.56,0.46,Moderate Condition
+UTTARAKHAND,Hardwar,0.12,16.44,0.59,0.48,Moderate Condition
+UTTARAKHAND,Nainital,0.09,15.88,0.65,0.52,Moderate Condition
+UTTARAKHAND,Pithoragarh,0.14,13.74,0.63,0.53,Moderate Condition
+UTTARAKHAND,Rudraprayag,0.17,15.02,0.67,0.54,Moderate Condition
+UTTARAKHAND,Tehri Garhwal,0.13,15.75,0.27,0.31,Poor Condition
+UTTARAKHAND,Udham Singh Nagar,0.04,15.92,0.5,0.43,Moderate Condition
+UTTARAKHAND,Uttarkashi,0.3,14.23,0.27,0.34,Poor Condition
+WEST BENGAL,Alipurduar,0,21.6,0.52,0.38,Poor Condition
+WEST BENGAL,Bankura,0.15,22.83,0.4,0.32,Poor Condition
+WEST BENGAL,Birbhum,0.01,21.9,0.52,0.38,Poor Condition
+WEST BENGAL,Cooch Behar,0,19.76,0.5,0.39,Poor Condition
+WEST BENGAL,Dakshin Dinajpur,0,21.58,0.54,0.39,Poor Condition
+WEST BENGAL,Darjiling,0.04,15.14,0.49,0.43,Moderate Condition
+WEST BENGAL,Hooghly,0.34,22.86,0.51,0.4,Moderate Condition
+WEST BENGAL,Howrah,0.17,23.21,0.43,0.33,Poor Condition
+WEST BENGAL,Jalpaiguri,0.01,17.29,0.39,0.35,Poor Condition
+WEST BENGAL,Jhargram,0.24,23.09,0.36,0.3,Poor Condition
+WEST BENGAL,Kalimpong,0.14,15.12,0.52,0.45,Moderate Condition
+WEST BENGAL,Kolkata,0.29,22.96,0.22,0.23,Poor Condition
+WEST BENGAL,Maldah,0,21.35,0.54,0.39,Poor Condition
+WEST BENGAL,Medinipur West,0.17,23.28,0.43,0.33,Poor Condition
+WEST BENGAL,Murshidabad,0,21.97,0.43,0.33,Poor Condition
+WEST BENGAL,Nadia,0.09,22.24,0.5,0.37,Poor Condition
+WEST BENGAL,North Twenty Four Pargan*,0.29,22.59,0.54,0.42,Moderate Condition
+WEST BENGAL,Paschim Bardhaman,0.01,22,0.45,0.34,Poor Condition
+WEST BENGAL,Purba Bardhaman,0.12,22.39,0.37,0.3,Poor Condition
+WEST BENGAL,Purba Medinipur,0.04,23.29,0.51,0.36,Poor Condition
+WEST BENGAL,Puruliya,0.2,22.57,0.33,0.29,Poor Condition
+WEST BENGAL,South Twenty Four Pargana,0.12,23.07,0.36,0.29,Poor Condition
+WEST BENGAL,Uttar Dinajpur,0,21.46,0.38,0.3,Poor Condition
