@@ -1,7 +1,4 @@
-streamlit==1.33.0
+streamlit
 pandas
 numpy
 plotly
-geopandas==0.14.4
-shapely==2.0.4
-pyproj==3.6.1
